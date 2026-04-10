@@ -9,6 +9,7 @@ Tracking my progress through The Odin-freeCode Camp Remix Course
 |Date|What I Did|
 |2026-04-08|Repository setup & HTML Foundations|
 |2026-04-09|Working With Texts|
+|2026-04-10|Working with links|
 
 ## Overall progress
 🟢🟢⚪⚪⚪⚪⚪⚪⚪⚪ 10% complete (1/10 sections)

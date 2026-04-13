@@ -24,11 +24,37 @@
      It goes in the elements opening tag.   -->
 
      <!--There are 2 types of links in HTML: External and internal links  -->
-     <!-- External likns referred to as Absolute links, have a protocol and domain 
+     <!-- External links referred to as Absolute links, have a protocol and domain 
       of the destination. They link to other websites or resources on the web-->
       <!--Internal links,referred to relative links, link to other pages 
       within your website. They only include the filepath to the other page.  -->
 
-    <a href="about.html" >About page</a>      
+    <a href="pages/about.html" >About page</a>   
+
+    <!-- or this too <a href="./pages/about.html">About</a> -->
+
+    <img src="images/dog.jpg">
+    <!-- To display an image in HTML, we use the <img> element -->
+     <!-- It is a void element as it doesn't have a closing tag -->
+      <!-- It embeds an image to the page using an src attribute which tells
+       the browser where the image file is located -->
+       <!-- It embeds an image using both absolute and relative paths -->
+
+    <!-- If we want to use the dog image in the about page, we use this code 
+       <img src="../images/dog.jpg"> -->
+   
+    <!-- i.e We get into links-and-images directory, then into images directory
+     then to the image file -->
+
+    <!-- Besides the src attribute, we also use the alt attribute -->
+     <!-- It is used to describe an image. It's used if the image cannot be loaded -->
+        <img src="images/dog.jpg" alt="A black dog">
 </body>
+
+<!-- File Organization -->
+<!-- The names of directories are made short because we shall be creating
+ links for most of the files,directories an sub-directories-->
+ <!-- We avoid caps, spaces and numbers in naming -->
+<!-- Create a sub-directory for images i.e img -->
+ <!-- Create a sub-directory for css and js -->
 </html>

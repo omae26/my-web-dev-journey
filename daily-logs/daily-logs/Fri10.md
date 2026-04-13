@@ -1,4 +1,4 @@
-# [April 10, 2026] - Day [2]
+# [April 10, 2026] - Day [3]
 
 ## Today's Progress
 - Learned about working with links and the href attribute

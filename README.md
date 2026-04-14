@@ -14,6 +14,7 @@ Tracking my progress through The Odin-freeCode Camp Remix Course
 |2026-04-10|Working with links|
 |2026-04-12|Links and images |
 |20206-04-13|Links & images and Recipe Page Project|
+|2026-04-14|Begun CSS Foundations|
 
 ## Overall progress
 🟢🟢⚪⚪⚪⚪⚪⚪⚪⚪ 40% complete (1/10 sections)

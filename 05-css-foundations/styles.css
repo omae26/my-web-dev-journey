@@ -1,0 +1,14 @@
+div{
+    color: #440812;
+}
+/* Color = property and white = value */
+
+
+/* A type selector (or element selector) will select all elements of the given 
+element type, and the syntax is just the name of the element: */
+
+.alert-text{
+    color: red;
+}
+
+/* For selectors that share the same delarations, separate them with commas */

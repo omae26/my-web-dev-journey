@@ -3,9 +3,38 @@
     <head>
         <meta charset="UTF-8">
         <title>CSS Foundations</title>
+        <link rel="stylesheet" href="styles.css">
+        <!-- Link is a void element as it doesn't have a closing tag -->
     </head>
 
     <body>
         
+        <div>Hello World!</div>
+        <div>Hello again!</div>
+        <div>Hi...</div>
+        <p>Okay, bye!</p>
+
+        <div class="alert-text">Please agree to our terms of service.</div>
+        <!-- Class selectors will select all elements with the given class -->
+         <!-- CSS Syntax for class selectors is a period (.) followed by the class name -->
+          <!-- You can add multiple classes to an element by separating them with spaces
+           e.g class="alert-tet severe-alert" . A hyphen is used to separate multiple
+           worded names while whitespace is used to separate different classes -->
+
+        <div id="title">My Awesome 90's page</div>
+        <!-- ID selectors are almost similar to class selectors -->
+         <!-- CSS Syntax for ID selectors is a hash (#) followed by the ID name -->
+          <!-- Unlike classes, you can only have one id per page and the id attribute 
+           should not contain any whitespace -->
+
+        <!-- Methods of linking css and html -->
+        <!-- 1. External CSS using the <link> element -->
+        <!-- 2. Internal CSS (Embedded) using the <style> element inside the <head> 
+            element -->
+        <!-- 3. Inline CSS adding styles directly to HTML elements.
+         There aren't any selectors here, since the styles are being added directly 
+         to the opening <div> tag itself. Next, you have the style attribute, 
+        with its value within the pair of quotation marks being the 
+        declarations. -->
     </body>
 </html>

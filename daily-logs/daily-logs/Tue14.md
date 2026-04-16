@@ -1,4 +1,3 @@
-# [DATE] - Day [N]
 # April 14, 2026 - Day 6
 
 ## Today's Progress
